@@ -15,7 +15,7 @@ set(
 
 set(
     HEADERS 
-	"include/glad/glad.h",
+	"include/glad/glad.h"
 	"include/KHR/khrplatform.h"
 )
 
